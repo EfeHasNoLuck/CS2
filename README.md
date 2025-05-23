@@ -1,7 +1,6 @@
 # CS2
 This project is a simple product management system that allows users to add or remove products and calculates prices based on the dollar rate and special values.
 
-
 Product Management System
 
 This is a C++ console-based Product Management System that allows users to:
@@ -16,7 +15,6 @@ This is a C++ console-based Product Management System that allows users to:
 
 • Save and load product data from files (product_catalog.txt and dollar_rate.txt)
 
-
 Features
 • Products with a special float value are treated as unique items
 
@@ -25,7 +23,6 @@ Features
 • Calculates prices for two platforms: ByNoGame and CSFloat
 
 • Persistent data storage for products and exchange rate
-
 
 Files
 • main.cpp – main source code
