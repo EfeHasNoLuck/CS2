@@ -16,6 +16,7 @@ This is a C++ console-based Product Management System that allows users to:
 • Save and load product data from files (product_catalog.txt and dollar_rate.txt)
 
 Features
+
 • Products with a special float value are treated as unique items
 
 • Products without a float value are stackable (quantity-based)
@@ -25,6 +26,7 @@ Features
 • Persistent data storage for products and exchange rate
 
 Files
+
 • main.cpp – main source code
 
 • product_catalog.txt – stores product data
