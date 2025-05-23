@@ -4,28 +4,28 @@ This project is a simple product management system that allows users to add or r
 Product Management System
 This is a C++ console-based Product Management System that allows users to:
 
-Add products with name, base price, and optional float (special) value
+• Add products with name, base price, and optional float (special) value
 
-Remove products from the list
+• Remove products from the list
 
-Display the product list with calculated prices
+• Display the product list with calculated prices
 
-Set or update the dollar exchange rate
+• Set or update the dollar exchange rate
 
-Save and load product data from files (product_catalog.txt and dollar_rate.txt)
+• Save and load product data from files (product_catalog.txt and dollar_rate.txt)
 
 Features
-Products with a special float value are treated as unique items
+• Products with a special float value are treated as unique items
 
-Products without a float value are stackable (quantity-based)
+• Products without a float value are stackable (quantity-based)
 
-Calculates prices for two platforms: ByNoGame and CSFloat
+• Calculates prices for two platforms: ByNoGame and CSFloat
 
-Persistent data storage for products and exchange rate
+• Persistent data storage for products and exchange rate
 
 Files
-main.cpp – main source code
+• main.cpp – main source code
 
-product_catalog.txt – stores product data
+• product_catalog.txt – stores product data
 
-dollar_rate.txt – stores the dollar exchange rate
+• dollar_rate.txt – stores the dollar exchange rate
